@@ -2,4 +2,4 @@ I also have a cron job that takes photos so I don't have to be pressing the butt
 
 |How it looks|
 |------------|
-|<img src="https://raw.githubusercontent.com/argituri/raspi-camera-card/blob/master/snip.PNG" width="250">|
+|<img src="https://raw.githubusercontent.com/argituri/raspi-camera-card/master/snip.PNG" width="250">|
