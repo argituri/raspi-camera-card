@@ -1,4 +1,4 @@
-I also have a cron job that takes photos so I don't have to be pressing the button all day.
+
 
 |How it looks|
 |------------|
